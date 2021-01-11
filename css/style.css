@@ -1,8 +1,14 @@
-.button {
-    font-size: 14px;
-    font-weight: 400;
-    padding: 10px 20px;
-    background-color: tomato;
-    color: white;
-    border-radius: 12px;
+body {
+    background-color: rgb(245, 245, 245);
+}
+.color_name {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    font-size: 42px;
+    font-weight: 200;
+    text-transform: uppercase;
+    line-height: 60px;
+    text-align: center;
+    margin-top: -30px;
 }
